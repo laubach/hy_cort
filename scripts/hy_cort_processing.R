@@ -78,4 +78,4 @@ sessionInfo()
 ### 2.1 Set a working directory
 setwd("~/Git/fisi_lab/hy_cort")
 
-# sync with gitdesktop
+# sync with gitdesktop 2
